@@ -1,0 +1,6 @@
+{
+  "name": "ClipTrim Studio - Pro Video Trimmer & Mobile Editor",
+  "description": "Professional video trimming, cropping, frame-by-frame precision cutting, automatic scene detection, logo removal, and quick social exports with cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
